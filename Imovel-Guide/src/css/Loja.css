@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color:  slategray;
+}
+
+.titulo{
+   margin-top: 60px;
+   text-align: center;
+}
+
+form, td, tr, input{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+}
+
+button{
+    cursor: pointer;
+}
+
+caption, b{
+    text-align: center;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+}
+
+.user, h6{
+    color: white;
+}
+
+#altor{
+    text-align: center;
+    margin-top: 220px;
+}
+

@@ -1,0 +1,15 @@
+{
+    "name": "corretor/loja",
+    "autoload": {
+        "psr-4": {
+             "src\\": "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "Claitonok",
+            "email": "claiton_santos1@hotmail.com"
+        }
+    ],
+    "require": {}
+}
